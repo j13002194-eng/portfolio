@@ -1,7 +1,3 @@
-Here’s a **clean, upgraded version** of your portfolio that actually matches the level of what you just built (that headtag system is way more advanced than your current write-up shows):
-
----
-
 # Jayden | FiveM & Roblox Developer
 
 I build advanced gameplay systems for **FiveM and Roblox**, specializing in **Lua scripting, UI systems, and server optimization**.
